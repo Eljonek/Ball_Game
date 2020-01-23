@@ -1,0 +1,1313 @@
+﻿Log file open, 01/23/20 16:26:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: OneThing_Bukowska
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.108813
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.23-15.26.20:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.23-15.26.20:155][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.23-15.26.20:155][  0]LogHAL: Display: Platform has ~ 16 GB [16999383040 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.23-15.26.20:155][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.23-15.26.20:155][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Config/Windows/Engine.ini]
+[2020.01.23-15.26.20:161][  0]LogInit: Computer: DESKTOP-1FRBPOV
+[2020.01.23-15.26.20:161][  0]LogInit: User: Eljonek
+[2020.01.23-15.26.20:161][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.23-15.26.20:161][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.23-15.26.20:161][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.01.23-15.26.20:161][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.23-15.26.20:161][  0]LogMemory: Process Physical Memory: 100.73 MB used, 100.73 MB peak
+[2020.01.23-15.26.20:161][  0]LogMemory: Process Virtual Memory: 124.62 MB used, 124.62 MB peak
+[2020.01.23-15.26.20:161][  0]LogMemory: Physical Memory: 6303.59 MB used,  9908.29 MB free, 16211.88 MB total
+[2020.01.23-15.26.20:161][  0]LogMemory: Virtual Memory: 4692.50 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2020.01.23-15.26.20:164][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.23-15.26.20:195][  0]LogInit: Using OS detected language (pl-PL).
+[2020.01.23-15.26.20:195][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.01.23-15.26.20:196][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.01.23-15.26.20:197][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.01.23-15.26.20:197][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.01.23-15.26.20:197][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.01.23-15.26.20:198][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.01.23-15.26.20:198][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.01.23-15.26.20:198][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.01.23-15.26.20:198][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.01.23-15.26.20:199][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.23-15.26.20:233][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.23-15.26.20:233][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.23-15.26.20:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.23-15.26.20:922][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.23-15.26.21:005][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.01.23-15.26.21:005][  0]LogD3D11RHI:       4055/0/8105 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.23-15.26.21:020][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.01.23-15.26.21:020][  0]LogD3D11RHI:       128/0/8105 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.23-15.26.21:023][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.23-15.26.21:023][  0]LogD3D11RHI:       0/0/8105 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.23-15.26.21:023][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.23-15.26.21:068][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.23-15.26.21:068][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.01.23-15.26.21:068][  0]LogWindows: EnumDisplayDevices:
+[2020.01.23-15.26.21:068][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.01.23-15.26.21:068][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2020.01.23-15.26.21:068][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.23-15.26.21:069][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.23-15.26.21:069][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.01.23-15.26.21:069][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.23-15.26.21:069][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.23-15.26.21:069][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.01.23-15.26.21:117][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.23-15.26.21:130][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.23-15.26.21:518][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.23-15.26.21:528][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.23-15.26.21:538][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.23-15.26.21:548][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.23-15.26.21:558][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.23-15.26.21:569][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.23-15.26.21:579][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.23-15.26.21:590][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.23-15.26.21:595][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.23-15.26.21:636][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.23-15.26.21:638][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.23-15.26.21:660][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.23-15.26.21:660][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.23-15.26.21:678][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.23-15.26.21:678][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.23-15.26.21:687][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.23-15.26.21:696][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.23-15.26.21:705][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.23-15.26.21:716][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.23-15.26.21:746][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.23-15.26.21:746][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.23-15.26.21:746][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.23-15.26.21:756][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.23-15.26.21:822][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Intermediate/Shaders/WorkingDirectory/7100/).
+[2020.01.23-15.26.21:822][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Eljonek/AppData/Local/Temp/UnrealShaderWorkingDir/27D5703C494A5F1B99C94D94B78383BB/'.
+[2020.01.23-15.26.21:824][  0]LogXGEController: Cleaning working directory: C:/Users/Eljonek/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.23-15.26.21:825][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.23-15.26.21:825][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.23-15.26.21:825][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.23-15.26.22:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.23-15.26.22:609][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/Eljonek/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.23-15.26.22:609][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Eljonek/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.23-15.26.22:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.23-15.26.22:609][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.23-15.26.22:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.23-15.26.22:609][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.23-15.26.22:623][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.23-15.26.22:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.23-15.26.22:623][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.23-15.26.22:624][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Eljonek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.23-15.26.22:624][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.23-15.26.22:624][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.23-15.26.22:652][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.23-15.26.22:654][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.23-15.26.22:655][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.23-15.26.22:748][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2020.01.23-15.26.23:090][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.23-15.26.23:265][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.23-15.26.23:265][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.23-15.26.23:265][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.23-15.26.23:265][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.23-15.26.23:265][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.23-15.26.23:277][  0]LogNetVersion: OneThing_Bukowska 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 316949471)
+[2020.01.23-15.26.23:839][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.074354 seconds
+[2020.01.23-15.26.23:848][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.23-15.26.23:848][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.23-15.26.23:848][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.23-15.26.24:918][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.23-15.26.24:921][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.23-15.26.24:987][  0]SourceControl: Source control is disabled
+[2020.01.23-15.26.24:987][  0]SourceControl: Source control is disabled
+[2020.01.23-15.26.24:989][  0]SourceControl: Source control is disabled
+[2020.01.23-15.26.24:990][  0]SourceControl: Source control is disabled
+[2020.01.23-15.26.25:112][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.23-15.26.25:254][  0]LogOcInput: OculusInput pre-init called
+[2020.01.23-15.26.25:267][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.23-15.26.25:267][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.23-15.26.25:357][  0]LogEngine: Initializing Engine...
+[2020.01.23-15.26.25:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.23-15.26.25:361][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.23-15.26.25:641][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.23-15.26.25:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.23-15.26.25:684][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-15.26.25:709][  0]LogInit: FAudioDevice initialized.
+[2020.01.23-15.26.25:709][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.23-15.26.25:794][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Eljonek/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.23-15.26.25:803][  0]LogInit: Texture streaming: Enabled
+[2020.01.23-15.26.25:823][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.23-15.26.25:823][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.23-15.26.25:824][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.23-15.26.26:119][  0]LogInit: Transaction tracking system initialized
+[2020.01.23-15.26.26:148][  0]BlueprintLog: New page: Editor Load
+[2020.01.23-15.26.26:222][  0]LocalizationService: Localization service is disabled
+[2020.01.23-15.26.26:542][  0]LogFileCache: Scanning file cache for directory 'D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Content/' took 0.00s
+[2020.01.23-15.26.26:542][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.23-15.26.26:542][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.23-15.26.26:779][  0]SourceControl: Source control is disabled
+[2020.01.23-15.26.26:779][  0]Cmd: MAP LOAD FILE="../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.23-15.26.26:780][  0]LightingResults: New page: Lighting Build
+[2020.01.23-15.26.26:784][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-15.26.26:784][  0]MapCheck: New page: Map Check
+[2020.01.23-15.26.26:784][  0]LightingResults: New page: Lighting Build
+[2020.01.23-15.26.26:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.23-15.26.27:142][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.23-15.26.27:148][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Statue.StaticMeshComponent0' 
+[2020.01.23-15.26.27:152][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.23-15.26.27:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.23-15.26.27:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.23-15.26.27:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,395ms to complete.
+[2020.01.23-15.26.27:183][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.404
+[2020.01.23-15.26.27:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-15.26.27:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-15.26.27:330][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-15.26.27:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-15.26.27:347][  0]LogCollectionManager: Loaded 0 collections in 0.002045 seconds
+[2020.01.23-15.26.27:355][  0]LogFileCache: Scanning file cache for directory 'D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Collections/' took 0.00s
+[2020.01.23-15.26.27:355][  0]LogFileCache: Scanning file cache for directory 'D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Content/Developers/Eljonek/Collections/' took 0.00s
+[2020.01.23-15.26.27:355][  0]LogFileCache: Scanning file cache for directory 'D:/1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Content/Collections/' took 0.00s
+[2020.01.23-15.26.27:355][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.23-15.26.27:364][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2863 classes and 680 folders.
+[2020.01.23-15.26.27:370][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.23-15.26.27:456][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.23-15.26.27:464][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.23-15.26.27:507][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.23-15.26.27:512][  0]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.23-15.26.27:519][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.23-15.26.27:633][  0]LogRenderer: Reallocating scene render targets to support 1236x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.23-15.26.27:796][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.01.23-15.26.27:796][  0]LogLoad: (Engine Initialization) Total time: 11.78 seconds
+[2020.01.23-15.26.27:796][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.23-15.26.27:866][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.23-15.26.27:879][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.23-15.26.27:970][  1]LogAssetRegistry: Asset discovery search completed in 5.2237 seconds
+[2020.01.23-15.26.27:977][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2020.01.23-15.26.27:977][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000107 seconds (updated 0 objects)
+[2020.01.23-15.26.29:288][  5]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.23-15.30.23:132][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-15.30.23:195][892]LogLinker: Warning: Failed to load '/Game/NewMap.NewMap:PersistentLevel.NewMap': Can't resolve asset name
+[2020.01.23-15.30.25:741][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-15.30.30:499][281]LogAIModule: Creating AISystem for world NewMap
+[2020.01.23-15.30.30:507][281]LogAssetEditorManager: Opening Asset editor for World /Game/NewMap.NewMap
+[2020.01.23-15.30.30:534][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.01.23-15.30.30:535][281]Cmd: MAP LOAD FILE="../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.23-15.30.30:535][281]LightingResults: New page: Lighting Build
+[2020.01.23-15.30.30:535][281]LoadErrors: New page: Loading map: NewMap.umap
+[2020.01.23-15.30.30:536][281]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-15.30.30:537][281]MapCheck: New page: Map Check
+[2020.01.23-15.30.30:537][281]LightingResults: New page: Lighting Build
+[2020.01.23-15.30.30:563][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.23-15.30.30:567][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.23-15.30.30:594][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.23-15.30.30:622][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.23-15.30.30:623][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,482ms to complete.
+[2020.01.23-15.30.30:623][281]LogFileHelpers: Loading map 'NewMap' took 0.089
+[2020.01.23-15.30.38:189][727]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-15.30.40:923][890]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-15.30.51:003][491]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-15.30.53:095][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.31.16:901][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-15.31.24:780][472]Cmd: TRANSACTION UNDO
+[2020.01.23-15.31.24:780][472]LogEditorTransaction: Undo Move Actors
+[2020.01.23-15.31.24:788][472]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-15.31.24:788][472]LogGeometryMode: Warning: Unable to resolve BoxBrush6 Brush in new BSP, see above
+[2020.01.23-15.31.24:788][472]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-15.31.27:254][617]Cmd: TRANSACTION UNDO
+[2020.01.23-15.31.27:254][617]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-15.31.36:054][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-15.31.50:034][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-15.32.09:382][104]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.32.20:902][776]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.32.26:008][ 75]Cmd: TRANSACTION UNDO
+[2020.01.23-15.32.26:009][ 75]LogEditorTransaction: Undo Move Actors
+[2020.01.23-15.32.26:019][ 75]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.01.23-15.32.26:019][ 75]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2020.01.23-15.32.26:019][ 75]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-15.32.41:809][995]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2020.01.23-15.32.41:809][995]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-15.32.51:976][589]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.32.54:676][746]Cmd: TRANSACTION UNDO
+[2020.01.23-15.32.54:676][746]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-15.32.55:473][791]Cmd: TRANSACTION UNDO
+[2020.01.23-15.32.55:473][791]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-15.32.56:180][832]Cmd: TRANSACTION UNDO
+[2020.01.23-15.32.56:180][832]LogEditorTransaction: Undo Move Actors
+[2020.01.23-15.32.56:674][859]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.33.02:871][214]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.33.02:938][214]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-15.33.03:866][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-15.34.28:964][887]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={14072F8B-4FCE-B0E8-7C1B-81B49787D68C}
+[2020.01.23-15.40.30:684][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.01.23-15.40.30:685][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-15.40.33:099][967]LogSavePackage: Moving '../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/NewMap_Auto1AEBA54744D2EFE619A176C8950431EB5.tmp' to '../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2020.01.23-15.40.33:110][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 2.454
+[2020.01.23-15.40.33:110][967]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.454
+[2020.01.23-16.00.46:616][123]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.00.53:831][544]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.00.59:742][889]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.01.08:820][424]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-16.01.08:821][424]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-16.01.09:604][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.01.32:784][836]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.01.42:187][386]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.01.45:347][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.01.47:029][667]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.47:029][667]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-16.01.47:334][683]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.47:335][683]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.47:624][696]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.47:624][696]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.01.47:812][705]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.47:812][705]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-16.01.48:138][723]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.48:138][723]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.48:409][736]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.48:410][736]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-16.01.48:700][752]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.48:700][752]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.48:716][752]LogActorComponent: RegisterComponentWithWorld: (/Game/NewMap.NewMap:PersistentLevel.BoxBrush10_5.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.23-16.01.48:936][763]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.48:936][763]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.01.49:342][786]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.49:342][786]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-16.01.49:718][807]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.49:718][807]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.50:122][828]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.50:122][828]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.50:134][828]LogActorComponent: RegisterComponentWithWorld: (/Game/NewMap.NewMap:PersistentLevel.BoxBrush9_4.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.23-16.01.50:486][848]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.50:486][848]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.50:863][869]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.50:863][869]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.51:194][887]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.51:195][887]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.51:702][915]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.51:702][915]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.01.52:281][948]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.52:281][948]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-16.01.52:660][969]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.52:660][969]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.01.53:198][  0]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.53:198][  0]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.53:712][ 28]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.53:712][ 28]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-16.01.54:148][ 53]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.54:148][ 53]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.01.54:586][ 78]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.54:586][ 78]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-16.01.54:968][100]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.54:968][100]LogEditorTransaction: Undo Move Actors
+[2020.01.23-16.01.54:980][100]LogActorComponent: RegisterComponentWithWorld: (/Game/NewMap.NewMap:PersistentLevel.BoxBrush2_3.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.01.23-16.01.55:487][128]Cmd: TRANSACTION UNDO
+[2020.01.23-16.01.55:487][128]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.01.57:593][250]Cmd: DELETE
+[2020.01.23-16.01.57:605][250]Cmd: ACTOR DELETE
+[2020.01.23-16.01.57:758][250]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-16.01.57:790][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.23-16.01.57:796][250]LogEditorActor: Deleted 1 Actors (0.190 secs)
+[2020.01.23-16.01.59:427][337]Cmd: DELETE
+[2020.01.23-16.01.59:435][337]Cmd: ACTOR DELETE
+[2020.01.23-16.01.59:439][337]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-16.01.59:465][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.01.23-16.01.59:471][337]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.01.23-16.02.25:291][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.01.23-16.02.25:292][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.23-16.02.25:887][504]LogSavePackage: Moving '../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/NewMap_Auto2ECAE75D243DF812AB2C8A087E4D99EF9.tmp' to '../../../../../1_STUDIA_GRY/Silniki/Ball_Game/OneThing_Bukowska/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2020.01.23-16.02.25:891][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.625
+[2020.01.23-16.02.25:891][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.625
+[2020.01.23-16.02.44:327][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.02.52:578][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.03.05:637][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.03.11:607][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.03.13:969][292]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.03.21:788][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.03.24:282][900]LogActorFactory: Actor Factory created Cube
+[2020.01.23-16.03.26:874][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.03.28:842][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.03.36:866][588]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-16.06.10:760][590]Cmd: TRANSACTION UNDO
+[2020.01.23-16.06.10:760][590]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.06.11:844][653]Cmd: TRANSACTION UNDO
+[2020.01.23-16.06.11:844][653]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-16.06.15:748][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.06.29:289][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.07.01:473][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.07.16:168][445]Cmd: TRANSACTION UNDO
+[2020.01.23-16.07.16:169][445]LogEditorTransaction: Undo Set Material
+[2020.01.23-16.07.16:622][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.07.17:891][545]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-16.07.18:827][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.07.28:361][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.07.32:639][393]Cmd: TRANSACTION UNDO
+[2020.01.23-16.07.32:639][393]LogEditorTransaction: Undo Set Location
+[2020.01.23-16.07.35:851][582]Cmd: TRANSACTION UNDO
+[2020.01.23-16.07.35:851][582]LogEditorTransaction: Undo Set Location
+[2020.01.23-16.07.57:987][890]Cmd: DELETE
+[2020.01.23-16.07.57:987][890]Cmd: ACTOR DELETE
+[2020.01.23-16.07.57:990][890]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-16.07.58:017][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.23-16.07.58:025][890]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.01.23-16.08.03:748][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2020.01.23-16.08.03:748][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-16.08.03:749][225]PIE: New page: SIE session: NewMap (23 sty 2020, 18:08:03)
+[2020.01.23-16.08.03:750][225]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.23-16.08.03:752][225]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2020.01.23-16.08.03:759][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007078s)
+[2020.01.23-16.08.03:760][225]LogAIModule: Creating AISystem for world NewMap
+[2020.01.23-16.08.03:761][225]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2020.01.23-16.08.03:761][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.009035s)
+[2020.01.23-16.08.03:786][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.23-16.08.03:793][225]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-16.08.03:814][225]LogInit: FAudioDevice initialized.
+[2020.01.23-16.08.03:827][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-16.08.03:837][225]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-16.08.03:839][225]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2020.01.23-17.08.03
+[2020.01.23-16.08.03:839][225]LogWorld: Bringing up level for play took: 0.000866
+[2020.01.23-16.08.03:839][225]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.01.23-16.08.03:846][225]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.01.23-16.08.03:846][225]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0,696
+[2020.01.23-16.08.03:874][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2020.01.23-16.08.05:004][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.27.32:673][625]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:673][625]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:673][625]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:673][625]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:689][626]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:689][626]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:689][626]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:689][626]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:706][627]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:706][627]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:706][627]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:706][627]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:722][628]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:722][628]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:723][628]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:723][628]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:739][629]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:739][629]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:739][629]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:739][629]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:756][630]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:756][630]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:756][630]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:756][630]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:772][631]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:772][631]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:772][631]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:772][631]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:790][632]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:790][632]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:790][632]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:790][632]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:806][633]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:806][633]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:806][633]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:806][633]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:822][634]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:822][634]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:823][634]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:823][634]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:839][635]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:839][635]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:839][635]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:839][635]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:856][636]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:856][636]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:856][636]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:856][636]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:889][638]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:889][638]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:889][638]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:889][638]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:906][639]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:906][639]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:906][639]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:906][639]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:923][640]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:923][640]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:923][640]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.32:923][640]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:089][650]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:089][650]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:090][650]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:090][650]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:106][651]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:106][651]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:106][651]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:106][651]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:123][652]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:123][652]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:123][652]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:123][652]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:139][653]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:139][653]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:139][653]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:139][653]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:156][654]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:156][654]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:156][654]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:156][654]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:290][662]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:290][662]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:290][662]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:290][662]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:307][663]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:307][663]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:307][663]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:307][663]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:322][664]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:322][664]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:322][664]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:322][664]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:340][665]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:340][665]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:340][665]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:341][665]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:356][666]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:356][666]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:356][666]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:357][666]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:373][667]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:373][667]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:373][667]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:373][667]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:391][668]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:391][668]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:391][668]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:391][668]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:407][669]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:407][669]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:407][669]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:407][669]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:424][670]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:424][670]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:424][670]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:424][670]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:440][671]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:440][671]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:440][671]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:440][671]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:457][672]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:457][672]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:457][672]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:457][672]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:472][673]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:472][673]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:472][673]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:472][673]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:491][674]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:491][674]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:491][674]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:491][674]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:506][675]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:506][675]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:506][675]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:506][675]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:524][676]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:524][676]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:524][676]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:524][676]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:540][677]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:540][677]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:540][677]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:540][677]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:557][678]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:557][678]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:557][678]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:557][678]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:573][679]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:573][679]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:573][679]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:573][679]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:590][680]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:590][680]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:590][680]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:590][680]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:606][681]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:606][681]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:606][681]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:606][681]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:740][689]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:740][689]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:740][689]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:740][689]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:757][690]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:757][690]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:757][690]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:757][690]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:773][691]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:773][691]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:773][691]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:773][691]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:791][692]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:791][692]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:791][692]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:791][692]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:806][693]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:806][693]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:806][693]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:807][693]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:824][694]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:824][694]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:824][694]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:824][694]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:840][695]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:840][695]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:840][695]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:840][695]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:857][696]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:857][696]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:857][696]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:857][696]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:873][697]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:873][697]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:873][697]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.33:873][697]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BoxBrush6_7 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-16.27.38:350][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.27.38:447][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.01.23-16.27.41:158][955]LogSlate: Window 'Save Content' being destroyed
+[2020.01.23-16.27.46:275][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.27.52:619][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-16.27.52:653][599]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.01.23-16.27.53:626][650]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.01.23-16.27.55:365][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.28.09:657][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2020.01.23-16.28.09:658][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-16.28.09:658][572]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2020.01.23-16.28.09:660][572]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-16.28.09:670][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-16.28.09:670][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2020.01.23-16.28.09:703][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-16.28.09:706][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.01.23-16.28.09:721][572]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-16.28.09:818][573]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.23-16.28.13:874][810]LogSlate: Window 'Message Log' being destroyed
+[2020.01.23-16.28.13:881][810]LogSlate: Window 'Message Log' being destroyed
+[2020.01.23-16.28.18:119][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-16.28.19:530][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.23-16.28.29:007][143]LogSlate: Window 'Save Content' being destroyed
+[2020.01.23-16.28.29:102][143]LogSlate: Window 'OneThing_Bukowska - Unreal Editor' being destroyed
+[2020.01.23-16.28.29:251][144]Cmd: QUIT_EDITOR
+[2020.01.23-16.28.30:104][144]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.23-16.28.30:122][144]LogExit: Preparing to exit.
+[2020.01.23-16.28.30:794][144]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-16.28.30:795][144]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-16.28.30:803][144]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.23-16.28.30:816][144]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-16.28.30:822][144]LogExit: Editor shut down
+[2020.01.23-16.28.30:823][144]LogExit: Transaction tracking system shut down
+[2020.01.23-16.28.31:092][144]LogExit: Object subsystem successfully closed.
+[2020.01.23-16.28.31:114][144]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.23-16.28.31:177][144]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2020.01.23-16.28.31:177][144]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2020.01.23-16.28.31:177][144]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.01.23-16.28.31:177][144]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.01.23-16.28.31:177][144]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.01.23-16.28.31:178][144]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.01.23-16.28.31:179][144]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.01.23-16.28.31:341][144]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.01.23-16.28.31:341][144]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.01.23-16.28.31:342][144]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.01.23-16.28.31:384][144]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.01.23-16.28.31:385][144]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.01.23-16.28.31:386][144]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.01.23-16.28.31:386][144]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.01.23-16.28.31:386][144]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.01.23-16.28.31:386][144]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.01.23-16.28.31:386][144]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.01.23-16.28.31:390][144]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.01.23-16.28.31:483][144]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.01.23-16.28.31:484][144]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.01.23-16.28.31:485][144]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.01.23-16.28.31:586][144]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.01.23-16.28.31:687][144]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.23-16.28.31:687][144]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.23-16.28.31:688][144]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.23-16.28.31:688][144]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.23-16.28.31:688][144]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.23-16.28.31:688][144]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.23-16.28.31:689][144]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.23-16.28.31:690][144]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.23-16.28.31:690][144]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.23-16.28.31:690][144]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.23-16.28.31:690][144]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.23-16.28.31:690][144]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.23-16.28.31:693][144]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.23-16.28.31:694][144]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.23-16.28.31:696][144]LogDerivedDataCache: Shutdown
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.23-16.28.31:696][144]LogXGEController: Cleaning working directory: C:/Users/Eljonek/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.23-16.28.31:696][144]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.23-16.28.31:697][144]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.23-16.28.31:699][144]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.23-16.28.31:699][144]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.23-16.28.31:699][144]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.23-16.28.31:699][144]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.23-16.28.31:699][144]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.23-16.28.31:701][144]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.23-16.28.31:701][144]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.23-16.28.31:703][144]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.23-16.28.31:703][144]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.23-16.28.31:715][144]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.23-16.28.31:715][144]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.23-16.28.31:715][144]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.23-16.28.31:716][144]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.23-16.28.31:716][144]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.23-16.28.31:717][144]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.23-16.28.31:717][144]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.23-16.28.31:751][144]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.23-16.28.31:751][144]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.23-16.28.31:751][144]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5196037-4E6A-C9AF-7D62-93A47F00634E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=5fa8b82a4e3abe8f250e8387cf151783%7Cc44eee6f03724c57a77bc27787fa7f92%7C031e92ad-9356-4ed6-9743-5b2c7b64b633&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.23-16.28.31:782][144]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.23-16.28.31:783][144]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.23-16.28.31:785][144]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.23-16.28.31:785][144]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.23-16.28.31:785][144]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.23-16.28.31:786][144]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.23-16.28.31:788][144]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.23-16.28.31:790][144]LogD3D11RHI: Shutdown
+[2020.01.23-16.28.31:790][144]LogD3D11RHI: CleanupD3DDevice
+[2020.01.23-16.28.31:790][144]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.23-16.28.31:790][144]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.23-16.28.31:790][144]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.23-16.28.31:937][144]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.23-16.28.31:951][144]LogExit: Exiting.
+[2020.01.23-16.28.31:986][144]Log file closed, 01/23/20 17:28:31
